@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GarageSale</string>
+    <string name="add_post">Add Post</string>
+    <string name="additem">additem</string>
+    <string name="add_item">Add Item</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="image_posting">Image Posting</string>
+    <string name="title_goes_here">Title Goes Here</string>
+    <string name="description_goes_here">Description Goes Here</string>
+    <string name="price_goes_here">Price Goes Here</string>
+    <string name="comment">Comment</string>
+    <string name="enter_your_comment">Enter Your Comment</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="chat">Chat</string>
+    <string name="addchat">addChat</string>
+    <string name="enter_name_of_chat">Enter Name of Chat</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="semdimage">semdImage</string>
+    <string name="homepic">homepic</string>
+    <string name="enter">Enter</string>
+    <string name="homescreenpicture">Homescreenpicture</string>
+</resources>
